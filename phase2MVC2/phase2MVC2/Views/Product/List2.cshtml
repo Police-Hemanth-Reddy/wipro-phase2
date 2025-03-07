@@ -1,0 +1,32 @@
+﻿@model IEnumerable<phase2MVC2.Models.Product>
+@{
+    ViewData["Title"] = "List2";
+}
+
+<h1>List2</h1>
+
+
+<table class="table table-striped">
+    @{
+        <tr>
+            <th> PCode </th>
+            <th> Name </th>
+            <th> qqty </th>
+            <th> Details </th>
+            <th>price</th>
+        </tr>
+        foreach (var temp in @Model)
+        {
+            <tr>
+                <td>   @temp.PCode </td>
+                <td>@temp.Name </td>
+                <td> @temp.Qty</td>
+                <td> @temp.Details </td>
+                <td> @temp.price </td>
+
+            </tr>
+        }
+    }
+
+
+    <
