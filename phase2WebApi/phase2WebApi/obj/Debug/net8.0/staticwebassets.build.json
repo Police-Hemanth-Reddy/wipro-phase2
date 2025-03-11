@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rBsiNB6x11Vlm1w3ccsuYeo+MqIUQYT05eBN87geu6M=",
+  "Source": "phase2WebApi",
+  "BasePath": "_content/phase2WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
