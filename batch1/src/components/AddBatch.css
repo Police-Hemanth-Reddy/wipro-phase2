@@ -1,0 +1,74 @@
+/* AddBatch.css */
+.add-batch-container {
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #6bced3;
+    text-align: center;
+  }
+  
+  .add-batch-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .add-batch-container input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .add-batch-container label {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555;
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+  }
+  
+  .add-batch-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #2d4193;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-top: 10px;
+  }
+  
+  .add-batch-container button:hover {
+    background-color: #952828;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .button-group button {
+    width: 48%;
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .button-group button:hover {
+    background-color: #0056b3;
+  }
+  

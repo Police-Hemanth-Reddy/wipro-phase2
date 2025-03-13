@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\batchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\migrations\\20250311104120_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20250311104120_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\migrations\\20250311071959_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20250311071959_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311065951_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Authentication\\Migrations\\20250311065951_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authentication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|c:\\users\\hemanthkumar reddy\\source\\repos\\authentication\\authentication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB77680-25E3-4C12-9003-4DE4620E1977}|Authentication\\Authentication.csproj|solutionrelative:authentication\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 144,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250311104120_b.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311104120_b.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20250311104120_b.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311104120_b.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20250311104120_b.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T10:41:22.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Authentication\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Authentication\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:27:56.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwFgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T09:26:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250311071959_a.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311071959_a.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20250311071959_a.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311071959_a.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20250311071959_a.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T07:19:59.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250311065951_a.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311065951_a.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20250311065951_a.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Migrations\\20250311065951_a.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20250311065951_a.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:59:51.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T06:56:05.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:55:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:52:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchController.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\BatchController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\BatchController.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Controllers\\BatchController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\BatchController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:51:41.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Authentication.csproj",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+              "RelativeDocumentMoniker": "Authentication\\Authentication.csproj",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Authentication.csproj",
+              "RelativeToolTip": "Authentication\\Authentication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T06:51:12.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\User.cs",
+              "RelativeToolTip": "Authentication\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:50:40.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\Role.cs",
+              "RelativeToolTip": "Authentication\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:50:11.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\Batch.cs",
+              "RelativeDocumentMoniker": "Authentication\\Models\\Batch.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Models\\Batch.cs",
+              "RelativeToolTip": "Authentication\\Models\\Batch.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:49:44.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HEMANTHKUMAR REDDY\\source\\repos\\Authentication\\Authentication\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Authentication\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T06:48:21.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
